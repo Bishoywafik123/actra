@@ -1,0 +1,12 @@
+{
+    "Core": true,
+    "User": true,
+    "Service": true,
+    "Setting": true,
+    "Website": true,
+    "News":true,
+    "Category":true,
+    "Project":true,
+    "Why":true,
+    "Slider":true
+}

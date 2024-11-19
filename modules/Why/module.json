@@ -1,0 +1,13 @@
+{
+    "name": "Why",
+    "alias": "why",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Why\\Providers\\WhyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
